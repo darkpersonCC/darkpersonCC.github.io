@@ -1,2 +1,0 @@
-多年的游戏爱好者有丰富的游戏经验，熟知游戏制作的各个流程，熟练掌握UE5游戏制作引擎，擅长Blender、Maya、3Dmax、Zbrush 等主流3D软件，懂得动画方面的设计软件iclone、character creator 、Flash，使用过布料软件Marvelous Designer、特效软件Houdini、材质软件Substance Painter，经历过系统化的平面设计、室内设计、网页设计、影视设计（PS、AI、IDRAW、AE、AU、AN、达芬奇、DW、Sketchup、AXURE）能够使用主流的办公软件（word、excel、wps），编写过剧本、设计制作过微电影（编剧、导演、拍摄、后期）具有良好的团队合作能力，制作过游戏Demo（世界观、玩法、关卡、美术、特效、动画、编程）都有所涉及。因为现在还是在校生（大二未毕业），未来想进入游戏开发的行业所以想先贵公司进行实习积累经验为未来做准备。
-
